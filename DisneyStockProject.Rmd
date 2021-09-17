@@ -1,5 +1,5 @@
 ---
-title: "The Analysis of Disney Stock with Respect to Movies Releases"
+title: "The Analysis of Disney Stock with Respect to Movie Releases"
 author: "Carly Mahoney"
 date: "05/14/2021"
 fontsize: 12
